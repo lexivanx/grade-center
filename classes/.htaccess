@@ -1,0 +1,2 @@
+# Apache prevents anyone to access this dir via web client
+Require all denied
